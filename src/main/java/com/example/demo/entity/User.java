@@ -1,8 +1,5 @@
-package com.example.demo;
+package com.example.demo.entity;
 
-/**
- * 用户实体类
- */
 public class User {
 
     private Long id;
